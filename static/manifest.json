@@ -1,0 +1,20 @@
+{
+	"name": "GSMST Room Finder",
+	"short_name": "Room Finder",
+	"start_url": "/",
+	"display": "standalone",
+	"theme_color": "#D0BCFF",
+	"background_color": "#1C1B1F",
+	"icons": [
+		{
+			"sizes": "192x192",
+			"src": "logo192.png",
+			"type": "image/png"
+		},
+		{
+			"sizes": "512x512",
+			"src": "logo512.png",
+			"type": "image/png"
+		}
+	]
+}
