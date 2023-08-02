@@ -1,7 +1,7 @@
 <main class="responsive max">
 	<h1>GSMST Room Finder</h1>
-	<p>Another hastily made webapp by Kat the bbg</p>
-	<div class="row padding max" style="width: 100%;">
+	<p>Another hastily made webapp by Kat</p>
+	<div>
 		<div class="">
 			<div class="field label border">
 				<input type="text" />
@@ -9,7 +9,7 @@
 				<span class="helper">ex. 1.234</span>
 			</div>
         </div>
-        <p>OR</p>
+        <h4 class="center-align">OR</h4>
 			<div class="">
 				<div class="field suffix border label">
 					<select class="active">
@@ -26,7 +26,7 @@
 						<option value="3.107">Molnar</option>
 						<option value="3.108">Patterson</option>
 						<option value="3.121">Hulme</option>
-						<option value="3.124">Kasnter</option>
+						<option value="3.124">Kastner</option>
 						<option value="3.127">Dart</option>
 						<option value="3.129">Weeks</option>
 						<option value="3.131">Gorgans</option>
@@ -74,7 +74,7 @@
 						<option value="5.343">White</option>
 						<option value="5.344">Rawlins</option>
 						<option value="5.347">Manspeaker</option>
-						<option value="5.348">Phillips</option>
+						<option value="5.348">M. Phillips</option>
 						<option value="5.349">Berry</option>
 						<option value="5.366">Fowler</option>
 						<option value="5.367">Newcomb-Thompson</option>
@@ -87,7 +87,7 @@
 						<option value="2.112">Leazenbee</option>
 						<option value="2.113">Woodward</option>
 						<option value="2.121">Rhine</option>
-						<option value="2.136">Phillips</option>
+						<option value="2.136">L. Phillips</option>
 						<option value="2.141">Vatalaro</option>
 					</select>
 					<i>arrow_drop_down</i>
